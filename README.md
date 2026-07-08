@@ -53,8 +53,3 @@ When you run the program, you’ll see something like this:
 - Add yawning detection for more robust fatigue monitoring  
 - Integrate logging of drowsiness events  
 - Extend functionality for driver safety applications  
-```
-
-This README is concise, client‑friendly, and highlights the **problem solved, how to run it, and what happens when it runs**.  
-
-👉 Do you want me to also prepare a **short resume entry** (1–2 lines) for this project, so you can showcase it alongside your other work?
